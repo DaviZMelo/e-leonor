@@ -1,0 +1,68 @@
+{
+  "name": "e-leonor",
+  "version": "1.0.0",
+  "main": "template.json",
+  "description": "Landy is a free React landing page template designed for developers and startups.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "dev": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "@prismicio/client": "^5.1.0",
+    "@types/node": "^15.6.0",
+    "@types/react": "^17.0.13",
+    "@types/react-dom": "^17.0.5",
+    "@types/react-router-dom": "^5.1.7",
+    "@types/styled-components": "^5.1.9",
+    "antd": "^4.10.3",
+    "axios": "^0.21.1",
+    "i18next": "^19.8.4",
+    "i18next-browser-languagedetector": "^6.0.1",
+    "i18next-xhr-backend": "^3.2.2",
+    "prismic-dom": "^2.2.5",
+    "prismic-javascript": "^3.0.2",
+    "prismic-reactjs": "^1.3.4",
+    "react": "^17.0.2",
+    "react-awesome-reveal": "^3.7.1",
+    "react-dom": "^17.0.2",
+    "react-i18next": "^11.8.5",
+    "react-router-dom": "^5.2.0",
+    "styled-components": "^5.2.1",
+    "typescript": "^4.2.4"
+  },
+  "devDependencies": {
+    "@types/prismic-dom": "^2.1.1",
+    "@typescript-eslint/eslint-plugin": "^4.28.2",
+    "@typescript-eslint/parser": "^4.28.2",
+    "babel-plugin-module-resolver": "^4.1.0",
+    "eslint": "^7.30.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-next": "^11.0.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-import-resolver-babel-module": "^5.3.1",
+    "eslint-import-resolver-typescript": "^2.4.0",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.24.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "prettier": "^2.3.2",
+    "react-scripts": "^4.0.3"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

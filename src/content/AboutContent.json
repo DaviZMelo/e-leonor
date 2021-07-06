@@ -1,0 +1,16 @@
+{
+  "title": "As informações mais valiosas em qualquer lugar.",
+  "text": "Seja no computador, no celular, no tablet ou até na geladeira, não importa! O E-Leonor se adapta a qualquer dispositivo.",
+  "section": [
+    {
+      "title": "Provas? Onde?",
+      "content": "Saiba onde realizar suas provas de maneira rápida e fácil.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Questionário de quê?",
+      "content": "O que é o questionário de competência socioemocional e como realiza-lo?",
+      "icon": "notes.svg"
+    }
+  ]
+}
